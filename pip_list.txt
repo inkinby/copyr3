@@ -1,0 +1,12 @@
+Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:21:23) [MSC v.1916 32 bit (Intel)] on win32
+(venv) c:\python_pro\copyr3\venv\
+
+click (7.1.2)
+Flask (1.1.2)
+itsdangerous (1.1.0)
+Jinja2 (2.11.2)
+MarkupSafe (1.1.1)
+pip (9.0.3)
+PyMySQL (0.10.0)
+setuptools (39.0.1)
+Werkzeug (1.0.1)
